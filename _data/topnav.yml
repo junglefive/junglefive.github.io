@@ -3,9 +3,9 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub
-      external_url: https://github.com/junglefive/junglefive.github.io
-    - title: News
+    # - title: GitHub
+    #   external_url: https://github.com/junglefive/junglefive.github.io
+    - title: 最近更新
       url: /news
 
 #Topnav dropdowns
