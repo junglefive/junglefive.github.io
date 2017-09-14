@@ -11,6 +11,15 @@ folder: mydoc
 
 ## How to build Jekyll sites
 
+```
+F_sleep_forever:
+
+  movlw 0x88
+  movwf 0x88
+
+  return
+```
+
 The normal way to build the Jekyll site is through the build command:
 
 ```
