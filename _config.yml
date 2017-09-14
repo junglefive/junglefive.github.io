@@ -3,7 +3,7 @@ repository: junglefive/junglefive.github.io
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: 产品开发主页
+topnav_title: 芯海科技开发者社区（非官方）
 # this appears on the top navigation bar next to the home button
 
 site_title: 开发者网站

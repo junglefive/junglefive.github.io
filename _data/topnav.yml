@@ -7,6 +7,12 @@ topnav:
     #   external_url: https://github.com/junglefive/junglefive.github.io
     - title: 最近更新
       url: /news
+    - title: ADC系列
+      url: /news
+    - title: SOC系列
+      url: /news
+    - title: 测脂系列
+      url: /news
 
 #Topnav dropdowns
 topnav_dropdowns:
