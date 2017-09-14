@@ -176,7 +176,7 @@ entries:
       url: /mydoc_workflow_maps.html
       output: web, pdf
 
-  - title: Handling reviews
+  - title: 处理回顾
     output: web, pdf
 
     folderitems:
@@ -248,7 +248,7 @@ entries:
       url: /mydoc_shuffle.html
       output: web, pdf
 
-  - title: Troubleshooting
+  - title: 问题处理
     output: web, pdf
 
     folderitems:
