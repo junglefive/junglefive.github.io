@@ -5,7 +5,7 @@ entries:
   levels: one
   folders:
 
-  - title: Products
+  - title: 产品目录
     output: web
     folderitems:
     - title: News

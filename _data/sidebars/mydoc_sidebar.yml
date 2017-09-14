@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: 智慧健康产品博客
-  version: 1.0.0
+  product: 智慧健康产品博文
+  version:
   folders:
 
   - title:
@@ -19,32 +19,32 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: 概览
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: 从这里开始
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: 介绍
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Supported features
+    - title: 支持特性
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: About the theme author
+    - title: 关于作者
       url: /mydoc_about.html
       output: web, pdf
 
-    - title: Support
+    - title: 技术支持
       url: /mydoc_support.html
       output: web, pdf
 
-  - title: Release Notes
+  - title: 发行笔记
     output: web, pdf
     folderitems:
 
@@ -56,7 +56,7 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: Installation
+  - title: 安装
     output: web, pdf
     folderitems:
 
@@ -72,7 +72,7 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-  - title: Authoring
+  - title: 授权信息
     output: web, pdf
 
     folderitems:
@@ -108,7 +108,7 @@ entries:
       url: /mydoc_atom_text_editor.html
       output: web, pdf
 
-  - title: Navigation
+  - title: 导航
     output: web, pdf
 
     folderitems:
@@ -128,7 +128,7 @@ entries:
       url: /mydoc_series.html
       output: web, pdf
 
-  - title: Formatting
+  - title: 格式化
     output: web, pdf
 
     folderitems:
@@ -188,7 +188,7 @@ entries:
 #      url: /mydoc_git_collaboration
 #      output: web, pdf
 
-  - title: Publishing
+  - title: 发布
     output: web, pdf
 
     folderitems:
@@ -228,19 +228,19 @@ entries:
       url: /mydoc_publishing_github_pages.html
       output: web, pdf
 
-  - title: Special layouts
+  - title: 特殊页面
     output: web, pdf
 
     folderitems:
-    - title: Knowledge-base layout
+    - title: 基础知识
       url: /mydoc_kb_layout.html
       output: web, pdf
 
-    - title: Glossary layout
+    - title: 词汇表
       url: /mydoc_glossary.html
       output: web, pdf
 
-    - title: FAQ layout
+    - title: 问题集
       url: /mydoc_faq_layout.html
       output: web, pdf
 
@@ -257,7 +257,7 @@ entries:
       url: /mydoc_troubleshooting.html
       output: web, pdf
 
-  - title: Tag archives
+  - title: 标签架构
     output: web
     folderitems:
 
