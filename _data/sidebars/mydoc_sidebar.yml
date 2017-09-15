@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: 智慧健康产品博文
+  product: 智慧健康产品线
   version:
   folders:
 
@@ -228,7 +228,7 @@ entries:
       url: /mydoc_publishing_github_pages.html
       output: web, pdf
 
-  - title: 特殊页面
+  - title: 百科页面
     output: web, pdf
 
     folderitems:

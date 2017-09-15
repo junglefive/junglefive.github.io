@@ -3,8 +3,6 @@
 topnav:
 - title: Topnav
   items:
-    # - title: GitHub
-    #   external_url: https://github.com/junglefive/junglefive.github.io
     - title: 最近更新
       url: /news
     - title: ADC 系列
@@ -16,15 +14,5 @@ topnav:
     - title: 蓝牙系列
       url: /news
 
-#Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
-    - title: 产品列表
-      folderitems:
-        - title: 产品主页
-          url: /mydoc_introduction.html
-        - title: CSU14PD87
-          url: /p1_landing_page.html
-        - title: CSU8RPP1186B
-          url: /p2_landing_page.html
+
+

@@ -5,7 +5,7 @@ entries:
   levels: one
   folders:
 
-  - title: 产品目录
+  - title: 目录
     output: web
     folderitems:
     - title: News
@@ -14,9 +14,9 @@ entries:
     - title: Theme instructions
       url: /mydoc_introduction.html
       output: web
-    - title: Product 1
-      url: /p1_landing_page.html
+    - title: Product-demo1
+      url: /index.html.html
       output: web
-    - title: Product 2
-      url: /p2_landing_page.html
+    - title: Product-demo2
+      url: /index.html.html
       output: web
