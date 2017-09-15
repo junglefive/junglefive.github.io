@@ -581,7 +581,7 @@ a[data-toggle] {
 }
 
 .summary:before {
-    content: "综述: ";
+    content: "summary: ";
     font-weight: bold;
 }
 
