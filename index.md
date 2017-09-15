@@ -1,5 +1,5 @@
 ---
-title: 从芯海科技开发文档开始
+title: 芯海科技开发入门
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
