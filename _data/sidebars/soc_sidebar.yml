@@ -8,30 +8,29 @@ entries:
   - title: SOC目录
     output: web
     folderitems:
-    - title: 11XX系列
+    - title: 118系列
       output: web
-      folderitems:
-      - title: 1181
-        url: /soc_1181_1182.html
-        output: web
-      - title: 1182
-        url: /soc_1181_1182.html
-        output: web
-      - title: 1185
-        url: /soc_1181_1182.html
-        output: web
-      - title: 1185D
-        url: /soc_1181_1182.html
-        output: web
-      - title: 1185E
-        url: /soc_1181_1182.html
-        output: web
-      - title: 1186
-        url: /soc_1181_1182.html
-        output: web
-      - title: 1186B
-        url: /soc_1181_1182.html
-        output: web
+    - title: 1181
+      url: /soc_1181_1182.html
+      output: web
+    - title: 1182
+      url: /soc_1181_1182.html
+      output: web
+    - title: 1185
+      url: /soc_1181_1182.html
+      output: web
+    - title: 1185D
+      url: /soc_1181_1182.html
+      output: web
+    - title: 1185E
+      url: /soc_1181_1182.html
+      output: web
+    - title: 1186
+      url: /soc_1181_1182.html
+      output: web
+    - title: 1186B
+      url: /soc_1181_1182.html
+      output: web
     - title: 13XX系列
       url: /mydoc_introduction.html
       output: web
