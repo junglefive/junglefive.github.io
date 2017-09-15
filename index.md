@@ -4,7 +4,7 @@ keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
+summary: 这篇简短的操作指南将帮助你快速地了解并使用芯海科技开发流程，其他的主题文档会提供更加详尽的信息和技术细节。
 ---
 
 ## Build the Theme
