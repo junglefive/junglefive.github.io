@@ -1,0 +1,25 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: SOC目录
+    output: web
+    folderitems:
+    - title: 1181/1182系列
+      url: /soc_1181-1182.html
+      output: web
+    - title: 1381/1382/1391系列
+      url: /mydoc_introduction.html
+      output: web
+    - title: 1185/1185D/118E/1186/1186B系列
+      url: /index.html
+      output: web
+    - title: 14pd87/14pd89系列
+      url: /index.html
+      output: web
+    - title: 18M81/18M82/18M83系列
+      url:/index.html
+      output: web
