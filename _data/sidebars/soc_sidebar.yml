@@ -21,5 +21,6 @@ entries:
       url: /index.html
       output: web
     - title: 18M81/18M82/18M83系列
-      url:/index.html
+      url: /index.html
       output: web
+
