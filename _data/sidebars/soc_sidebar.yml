@@ -9,7 +9,7 @@ entries:
     output: web
     folderitems:
     - title: 1181-1182系列
-      url: /soc.html
+      url: /soc_1181_1182.html
       output: web
     - title: 1381-1382-1391系列
       url: /mydoc_introduction.html
