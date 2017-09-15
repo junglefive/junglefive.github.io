@@ -8,7 +8,7 @@ topnav:
     - title: ADC 系列
       url: /news
     - title: SOC 系列
-      url: /news
+      url: /soc
     - title: 测脂系列
       url: /news
     - title: 蓝牙系列
