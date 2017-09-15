@@ -15,8 +15,8 @@ entries:
       url: /mydoc_introduction.html
       output: web
     - title: Product-demo1
-      url: /index.html.html
+      url: /index.html
       output: web
     - title: Product-demo2
-      url: /index.html.html
+      url: /index.html
       output: web
