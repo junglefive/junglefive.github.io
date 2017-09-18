@@ -11,12 +11,12 @@ entries:
     - title: News
       url: /news.html
       output: web
-    - title: Theme instructions
+    - title: 介绍
       url: /mydoc_introduction.html
       output: web
-    - title: Product-demo1
+    - title: 产品1
       url: /index.html
       output: web
-    - title: Product-demo2
+    - title: 产品2
       url: /index.html
       output: web

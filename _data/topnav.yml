@@ -13,7 +13,8 @@ topnav:
       url: /fat
     - title: 蓝牙系列
       url: /bt
-
+    - title: wifi系列
+      url: /wifi
 
 # ceshi
 

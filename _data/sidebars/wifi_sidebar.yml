@@ -1,0 +1,49 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Wifi系列产品
+  version:
+  folders:
+
+  - title: 概要
+    output: web, pdf
+    folderitems:
+
+    - title: 了解系列芯片
+      url:
+      output: web
+      type: homepage
+
+    - title: 资源概况
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: 支持特性
+      url: /mydoc_supported_features.html
+      output: web, pdf
+
+    - title: 技术支持
+      url: /mydoc_support.html
+      output: web, pdf
+
+  - title: FAQ
+    output: web, pdf
+    folderitems:
+
+    - title: 定时器
+      url:
+      output: web
+      type: homepage
+
+    - title: 看门狗
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: 低功耗
+      url: /mydoc_supported_features.html
+      output: web, pdf
+
+    - title: 应用场景
+      url: /mydoc_support.html
+      output: web, pdf
