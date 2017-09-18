@@ -6,13 +6,13 @@ topnav:
     - title: 最近更新
       url: /news
     - title: ADC 系列
-      url: /news
+      url: /adc
     - title: SOC 系列
       url: /soc
     - title: 测脂系列
-      url: /news
+      url: /fat
     - title: 蓝牙系列
-      url: /news
+      url: /bt
 
 
 # ceshi
