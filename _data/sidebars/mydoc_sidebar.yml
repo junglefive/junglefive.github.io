@@ -113,6 +113,18 @@ entries:
       url: /mydoc_troubleshooting.html
       output: web, pdf
 
+  - title: OKOK相关
+    output: web
+    folderitems:
+
+    - title: APP介绍
+      url: /mydoc_tag_archives_overview.html
+      output: web
+
+    - title: APP使用
+      url: /mydoc_tag_archives_overview.html
+      output: web
+
   - title: 标签架构
     output: web
     folderitems:
