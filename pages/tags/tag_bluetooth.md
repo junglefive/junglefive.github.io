@@ -2,7 +2,7 @@
 title: "Content types pages"
 tagName: bluetooth
 search: exclude
-permalink: tag_content_types.html
+permalink: tag_bluetooth.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
