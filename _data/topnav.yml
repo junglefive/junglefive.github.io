@@ -6,15 +6,15 @@ topnav:
     - title: 最近更新
       url: /news
     - title: ADC 系列
-      url: /adc
+      url: /ADC
     - title: SOC 系列
-      url: /soc
+      url: /SOC
     - title: 测脂系列
-      url: /fat
+      url: /FAT
     - title: 蓝牙系列
-      url: /bt
+      url: /ble
     - title: wifi系列
-      url: /wifi
+      url: /WIFI
 
 # ceshi
 

@@ -2,12 +2,12 @@
 # If you are using the createtag script, don't leave an blank line at the end of this file.
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
-  - wifi
+  - WIFI
   - BLE
-  - fat
+  - FAT
   - news
-  - soc
-  - adc
-  - csm3510
-  - csu14pd87
-  - csu8rp1186
+  - SOC
+  - ADC
+  - CSM3510
+  - CSU14PD87
+  - CSU8RP1186

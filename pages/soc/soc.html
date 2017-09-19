@@ -2,16 +2,16 @@
 title: SOC
 sidebar: soc_sidebar
 keywords: news, blog, updates, release notes, announcements
-permalink: soc.html
+permalink: SOC.html
 toc: false
-folder: soc
+folder: SOC
 ---
 <div class="home">
 
     <div class="post-list">
         {% for post in site.posts limit:10 %}
         {% for tag in  post.tags%}
-        {% if tag == "soc" %}
+        {% if tag == "SOC" %}
                 <h2><a class="post-link" href="{{ post.url | remove: "/" }}">{{ post.title }}</a></h2>
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} /
                <!-- {% for tag in post.tags %} -->
