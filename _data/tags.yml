@@ -2,14 +2,12 @@
 # If you are using the createtag script, don't leave an blank line at the end of this file.
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
-  - getting_started
-  - content_types
-  - navigation
-  - formatting
-  - publishing
   - wifi
   - bluetooth
   - fat
   - news
   - soc
   - adc
+  - csm3510
+  - csu14pd87
+  - csu8rp1186
