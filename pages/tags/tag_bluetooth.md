@@ -1,6 +1,6 @@
 ---
-title: "Content types pages"
-tagName: bluetooth
+title: "BLE"
+tagName: BLE
 search: exclude
 permalink: tag_bluetooth.html
 sidebar: mydoc_sidebar

@@ -72,7 +72,7 @@ defaults:
       layout: "page"
       comments: true
       search: true
-      sidebar: home_sidebar
+      sidebar: mydoc_sidebar
       topnav: topnav
   -
     scope:
@@ -92,7 +92,7 @@ defaults:
       layout: "page"
       comments: true
       search: true
-      sidebar: home_sidebar
+      sidebar: mydoc_sidebar
       topnav: topnav
 
 # these are defaults used for the frontmatter for these file types
