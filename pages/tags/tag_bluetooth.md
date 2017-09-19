@@ -1,6 +1,6 @@
 ---
 title: "Content types pages"
-tagName: content_types
+tagName: bluetooth
 search: exclude
 permalink: tag_content_types.html
 sidebar: mydoc_sidebar

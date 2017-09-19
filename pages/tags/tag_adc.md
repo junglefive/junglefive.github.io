@@ -1,6 +1,6 @@
 ---
-title: "Collaboration pages"
-tagName: collaboration
+title: "adc pages"
+tagName: adc
 search: exclude
 permalink: tag_collaboration.html
 sidebar: mydoc_sidebar
