@@ -89,7 +89,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: "page"
       comments: true
       search: true
       sidebar: home_sidebar
