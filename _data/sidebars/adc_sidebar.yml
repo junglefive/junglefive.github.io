@@ -26,7 +26,7 @@ entries:
       url: /mydoc_support.html
       output: web, pdf
 
- - title: CSU1180
+  - title: CSU1180
     output: web, pdf
     folderitems:
 
@@ -34,7 +34,7 @@ entries:
       url:
       output: web
 
- - title: CSU11231/1232
+  - title: CSU11231/1232
     output: web, pdf
     folderitems:
 
@@ -42,7 +42,7 @@ entries:
       url:
       output: web
 
- - title: CSU1237/1238
+  - title: CSU1237/1238
     output: web, pdf
     folderitems:
 
