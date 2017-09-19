@@ -13,7 +13,7 @@ entries:
     - title: 了解系列芯片
       url:
       output: web
-      type: homepage
+
 
     - title: 资源概况
       url: /mydoc_introduction.html
@@ -34,4 +34,4 @@ entries:
     - title: 定时器
       url:
       output: web
-      type: homepage
+

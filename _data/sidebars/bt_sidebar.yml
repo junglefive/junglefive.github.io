@@ -13,7 +13,6 @@ entries:
     - title: 了解系列芯片
       url:
       output: web
-      type: homepage
 
     - title: 资源概况
       url: /mydoc_introduction.html
@@ -34,11 +33,9 @@ entries:
     - title: 了解系列芯片
       url:
       output: web
-      type: homepage
     - title: 定频认证
       url:
       output: web
-      type: homepage
 
   - title: CST34P93/95
     output: web, pdf
@@ -46,11 +43,9 @@ entries:
     - title: 了解系列芯片
       url:
       output: web
-      type: homepage
     - title: 定频认证
       url:
       output: web
-      type: homepage
 
   - title: CST34M97/98
     output: web, pdf
@@ -58,11 +53,9 @@ entries:
     - title: 了解系列芯片
       url:
       output: web
-      type: homepage
     - title: 定频认证
       url:
       output: web
-      type: homepage
 
 
   - title: FAQ
@@ -72,4 +65,3 @@ entries:
     - title: 接收不到广播
       url:
       output: web
-      type: homepage
