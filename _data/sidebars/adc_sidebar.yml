@@ -27,6 +27,33 @@ entries:
       url: /mydoc_support.html
       output: web, pdf
 
+ - title: CSU1180
+    output: web, pdf
+    folderitems:
+
+    - title: 了解系列芯片
+      url:
+      output: web
+      type: homepage
+
+ - title: CSU11231/1232
+    output: web, pdf
+    folderitems:
+
+    - title: 了解系列芯片
+      url:
+      output: web
+      type: homepage
+
+ - title: CSU1237/1238
+    output: web, pdf
+    folderitems:
+
+    - title: 了解系列芯片
+      url:
+      output: web
+      type: homepage
+
   - title: FAQ
     output: web, pdf
     folderitems:

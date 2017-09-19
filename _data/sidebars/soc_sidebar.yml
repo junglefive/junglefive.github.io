@@ -26,6 +26,50 @@ entries:
     - title: 技术支持
       url: /mydoc_support.html
       output: web, pdf
+  - title: CSU118X
+    output: web, pdf
+    folderitems:
+
+    - title: 了解系列芯片
+      url:
+      output: web
+      type: homepage
+
+  - title: CSU8RP13XX
+    output: web, pdf
+    folderitems:
+
+    - title: 了解系列芯片
+      url:
+      output: web
+      type: homepage
+
+  - title: CSU8RP118X
+    output: web, pdf
+    folderitems:
+
+    - title: 了解系列芯片
+      url:
+      output: web
+      type: homepage
+
+  - title: CSU14PD8X
+    output: web, pdf
+    folderitems:
+
+    - title: 了解系列芯片
+      url:
+      output: web
+      type: homepage
+
+  - title: CSU18M8X
+    output: web, pdf
+    folderitems:
+
+    - title: 了解系列芯片
+      url:
+      output: web
+      type: homepage
 
   - title: FAQ
     output: web, pdf

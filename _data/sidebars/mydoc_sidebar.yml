@@ -60,30 +60,6 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-  - title: 导航
-    output: web, pdf
-
-    folderitems:
-    - title: 侧边栏导航
-      url: /mydoc_sidebar_navigation.html
-      output: web, pdf
-
-    - title: 标签
-      url: /mydoc_tags.html
-      output: web, pdf
-
-    - title: 系列
-      url: /mydoc_series.html
-      output: web, pdf
-
-  - title: 处理回顾
-    output: web, pdf
-
-    folderitems:
-    - title: Commenting on files
-      url: /mydoc_commenting_on_files.html
-      output: web, pdf
-
   - title: 百科页面
     output: web, pdf
 
@@ -109,7 +85,34 @@ entries:
 
     folderitems:
 
-    - title: Troubleshooting
+    - title: 如何反馈问题
+      url: /mydoc_troubleshooting.html
+      output: web, pdf
+    - title: 如何快速解决问题
+      url: /mydoc_troubleshooting.html
+      output: web, pdf
+
+  - title: 标准方案
+    output: web, pdf
+
+    folderitems:
+
+    - title: 普通人体秤标准方案
+      url: /mydoc_troubleshooting.html
+      output: web, pdf
+    - title: 四电极蓝牙/wifi体脂秤标准方案
+      url: /mydoc_troubleshooting.html
+      output: web, pdf
+    - title: 八电极蓝牙/wifi体脂秤标准方案
+      url: /mydoc_troubleshooting.html
+      output: web, pdf
+    - title: 蓝牙计价秤标准方案
+      url: /mydoc_troubleshooting.html
+      output: web, pdf
+    - title: 高精度厨房秤标准方案
+      url: /mydoc_troubleshooting.html
+      output: web, pdf
+    - title: 口袋秤标准方案
       url: /mydoc_troubleshooting.html
       output: web, pdf
 

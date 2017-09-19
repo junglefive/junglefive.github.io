@@ -35,15 +35,3 @@ entries:
       url:
       output: web
       type: homepage
-
-    - title: 看门狗
-      url: /mydoc_introduction.html
-      output: web, pdf
-
-    - title: 低功耗
-      url: /mydoc_supported_features.html
-      output: web, pdf
-
-    - title: 应用场景
-      url: /mydoc_support.html
-      output: web, pdf
