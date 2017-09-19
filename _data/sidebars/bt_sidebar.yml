@@ -42,7 +42,7 @@ entries:
     output: web, pdf
     folderitems:
     - title: 了解系列芯片
-      url:/mydoc_supported_features.html
+      url: /mydoc_supported_features.html
       output: web
 
     - title: 定频认证
