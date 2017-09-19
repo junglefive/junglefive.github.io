@@ -11,7 +11,7 @@ entries:
     folderitems:
 
     - title: 了解系列芯片
-      url:
+      url: /mydoc_supported_features.html
       output: web
 
 
@@ -32,6 +32,6 @@ entries:
     folderitems:
 
     - title: 定时器
-      url:
+      url: /mydoc_supported_features.html
       output: web
 

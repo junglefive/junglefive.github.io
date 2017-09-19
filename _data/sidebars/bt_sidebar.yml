@@ -11,7 +11,7 @@ entries:
     folderitems:
 
     - title: 了解系列芯片
-      url:
+      url: /mydoc_supported_features.html
       output: web
 
     - title: 资源概况
@@ -31,30 +31,33 @@ entries:
     folderitems:
 
     - title: 了解系列芯片
-      url:
+      url: /mydoc_supported_features.html
       output: web
+
     - title: 定频认证
-      url:
+      url: /mydoc_supported_features.html
       output: web
 
   - title: CST34P93/95
     output: web, pdf
     folderitems:
     - title: 了解系列芯片
-      url:
+      url:/mydoc_supported_features.html
       output: web
+
     - title: 定频认证
-      url:
+      url: /mydoc_supported_features.html
       output: web
 
   - title: CST34M97/98
     output: web, pdf
     folderitems:
     - title: 了解系列芯片
-      url:
+      url: /mydoc_supported_features.html
       output: web
+
     - title: 定频认证
-      url:
+      url: /mydoc_supported_features.html
       output: web
 
 
@@ -63,5 +66,5 @@ entries:
     folderitems:
 
     - title: 接收不到广播
-      url:
+      url: /mydoc_supported_features.html
       output: web

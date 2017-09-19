@@ -11,7 +11,7 @@ entries:
     folderitems:
 
     - title: 了解系列芯片
-      url:
+      url: /mydoc_supported_features.html
       output: web
 
     - title: 资源概况
@@ -31,7 +31,7 @@ entries:
     folderitems:
 
     - title: 了解系列芯片
-      url:
+      url: /mydoc_supported_features.html
       output: web
 
   - title: CSU1257
@@ -39,7 +39,7 @@ entries:
     folderitems:
 
     - title: 了解系列芯片
-      url:
+      url: /mydoc_supported_features.html
       output: web
 
   - title: CSU1258
@@ -47,7 +47,7 @@ entries:
     folderitems:
 
     - title: 了解系列芯片
-      url:
+      url: /mydoc_supported_features.html
       output: web
 
   - title: FAQ
@@ -55,7 +55,7 @@ entries:
     folderitems:
 
     - title: 定时器
-      url:
+      url: /mydoc_supported_features.html
       output: web
 
     - title: 看门狗
