@@ -581,7 +581,7 @@ a[data-toggle] {
 }
 
 .summary:before {
-    content: "summary: ";
+    content: "摘要: ";
     font-weight: bold;
 }
 
