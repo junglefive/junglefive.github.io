@@ -19,7 +19,6 @@ folder: mydoc
 - 问题3. 怎么调整LED整体电流？
 - 问题4. 为什么打开了charge pump之后还是很暗？
 
-
 ## 2. 问题与解答
 
 - 问题1. 为什么打不开charge pump？
