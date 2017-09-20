@@ -1,8 +1,8 @@
 ---
 title: 18MB8X系列 LED FAQ
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
-last_updated: July 3, 2016
-tags: [getting_started]
+last_updated: Sep 20, 2017
+tags: [FAQ]
 summary: "客户在应用我司LED DRIVER的时候经常遇见的一些问题，为帮助客户能更容易使用我们的产品，将一些常见问题进行总结和解答"
 sidebar: mydoc_sidebar
 permalink: led_faq.html
@@ -31,9 +31,7 @@ folder: mydoc
 - 问题4. 为什么打开了charge pump之后跟不打开亮度一样？
 - 解答：这有多种可能性，以下为可能性总结及建议：
 
-
-### 3. 问题与解答
-
+## 3. 问题与解答
 
 - LED已达到最大亮度。建议更换LED。
 - CAP0/CAP1外接电容耐压值不够。建议使用封装0805以上、耐压值10V以上电容。
