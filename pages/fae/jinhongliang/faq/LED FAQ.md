@@ -12,7 +12,7 @@ folder: mydoc
 
 ## `18MB8X`系列 `LED` `FAQ`
 
-### 1. 常见问题
+#### 1. 常见问题
 
 - 问题1. _为什么打不开`charge pump`？_
 - 问题2. _打开`charge pump`且LED点亮时，为什么`Low power`电压升高了？_
@@ -20,25 +20,25 @@ folder: mydoc
 - 问题4. _为什么打开了`charge pump`之后还是很暗？_
 
 
-### 2. 问题与解答
+#### 2. 问题与解答
 
-##### 问题1. _为什么打不开`charge pump`？_
+* 问题1. _为什么打不开`charge pump`？_
 
-答：在配置好LED之后，请检查是否将`CHPCON[CHPEN]`、`LEDCON1[LED_PMODE]`打开, `CHPCON[CHPVS]`置0。
+    - 答：在配置好LED之后，请检查是否将`CHPCON[CHPEN]`、`LEDCON1[LED_PMODE]`打开, `CHPCON[CHPVS]`置0。
 
-##### 问题2. _打开`charge pump`且`LED`点亮时，为什么`Low power`电压升高了？_
+* 问题2. _打开`charge pump`且`LED`点亮时，为什么`Low power`电压升高了？_
 
-答：原因是`LED`点亮时将电源电压拉低了。这时候就应该提高`LDO`的驱动能力才能确保电源电压保持稳定。
+    - 答：原因是`LED`点亮时将电源电压拉低了。这时候就应该提高`LDO`的驱动能力才能确保电源电压保持稳定。
 
-##### 问题3. _怎么调整`LED`整体电流？_
+* 问题3. _怎么调整`LED`整体电流？_
 
-答：可修改`l_led_drv.asm`文件中函数```INTERRUPT_LED_END```以及```INTERRUPT_LED_END1```中驱动电流以及定时器溢出时间。
+    - 答：可修改`l_led_drv.asm`文件中函数```INTERRUPT_LED_END```以及```INTERRUPT_LED_END1```中驱动电流以及定时器溢出时间。
 
-##### 问题4. _为什么打开了`charge pump`之后跟不打开亮度一样_
+* 问题4. _为什么打开了`charge pump`之后跟不打开亮度一样_
 
-答：这有多种可能性，以下为可能性总结及建议：
+    - 答：这有多种可能性，以下为可能性总结及建议：
 
-### 3. 其他
+#### 3. 其他
 
 
 - `LED`已达到最大亮度。建议更换`LED`。
