@@ -3,7 +3,7 @@ title: 18MB8X系列 LED FAQ
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: July 3, 2016
 tags: [getting_started]
-summary: "I have used this theme for projects that I've worked on as a professional technical writer."
+summary: "客户在应用我司LED DRIVER的时候经常遇见的一些问题，为帮助客户能更容易使用我们的产品，将一些常见问题进行总结和解答"
 sidebar: mydoc_sidebar
 permalink: led_faq.html
 folder: mydoc
@@ -12,12 +12,7 @@ folder: mydoc
 
 # 18MB8X系列 LED FAQ
 
-## 1. 目的
-
-1. 客户在应用我司LED DRIVER的时候经常遇见的一些问题，为帮助客户能更容易使用我们的产品，将一些常见问题进行总结和解答。
-
-## 2. 常见问题
-
+## 1. 常见问题
 
 - 问题1. 为什么打不开charge pump？
 - 问题2. 打开charge pump且LED点亮时，为什么Low power电压升高了？
@@ -25,7 +20,7 @@ folder: mydoc
 - 问题4. 为什么打开了charge pump之后还是很暗？
 
 
-## 3. 问题与解答
+## 2. 问题与解答
 
 - 问题1. 为什么打不开charge pump？
 - 解答：在配置好LED之后，请检查是否将CHPCON[CHPEN]、LEDCON1[LED_PMODE]打开,CHPCON[CHPVS]置0。
@@ -37,13 +32,13 @@ folder: mydoc
 - 解答：这有多种可能性，以下为可能性总结及建议：
 
 
-### 4. 问题与解答
+### 3. 问题与解答
 
 
-LED已达到最大亮度。建议更换LED。
-CAP0/CAP1外接电容耐压值不够。建议使用封装0805以上、耐压值10V以上电容。
-CHPV/VLED引脚外接电容容值不足或耐压值不够。建议使用封装0805以上、耐压值10V以上电容。
-LDO驱动电压不够。建议更换驱动电流大的LDO。
+- LED已达到最大亮度。建议更换LED。
+- CAP0/CAP1外接电容耐压值不够。建议使用封装0805以上、耐压值10V以上电容。
+- CHPV/VLED引脚外接电容容值不足或耐压值不够。建议使用封装0805以上、耐压值10V以上电容。
+- LDO驱动电压不够。建议更换驱动电流大的LDO。
 
 
 
