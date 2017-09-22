@@ -10,16 +10,16 @@ folder: mydoc
 ---
 
 
-# 18MB8X系列 LED FAQ
+## 18MB8X系列 LED FAQ
 
-## 1. 常见问题
+#### 1. 常见问题
 
 - 问题1. 为什么打不开charge pump？
 - 问题2. 打开charge pump且LED点亮时，为什么Low power电压升高了？
 - 问题3. 怎么调整LED整体电流？
 - 问题4. 为什么打开了charge pump之后还是很暗？
 
-## 2. 问题与解答
+#### 2. 问题与解答
 
 - 问题1. 为什么打不开charge pump？
 - 解答：在配置好LED之后，请检查是否将CHPCON[CHPEN]、LEDCON1[LED_PMODE]打开,CHPCON[CHPVS]置0。
@@ -29,9 +29,6 @@ folder: mydoc
 - 解答：可修改l_led_drv.asm文件中函数INTERRUPT_LED_END以及INTERRUPT_LED_END1中驱动电流以及定时器溢出时间。
 - 问题4. 为什么打开了charge pump之后跟不打开亮度一样？
 - 解答：这有多种可能性，以下为可能性总结及建议：
-
-## 3. 问题与解答
-
 - LED已达到最大亮度。建议更换LED。
 - CAP0/CAP1外接电容耐压值不够。建议使用封装0805以上、耐压值10V以上电容。
 - CHPV/VLED引脚外接电容容值不足或耐压值不够。建议使用封装0805以上、耐压值10V以上电容。
