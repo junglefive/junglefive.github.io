@@ -84,7 +84,7 @@ entries:
       url: /led_faq.html
       output: web, pdf
 
-  - title: 仿真工具(CS-Write)
+  - title: 烧录工具(CS-Write)
     output: web, pdf
     folderitems:
 
@@ -96,9 +96,9 @@ entries:
       url: /led_faq.html
       output: web, pdf
 
- - title: 测试工具
-   output: web, pdf
-   folderitems:
+  - title: 测试工具
+    output: web, pdf
+    folderitems:
 
     - title: 测试工具问题汇总(持续更新)
       url: /mydoc_about_ruby_gems_etc.html
