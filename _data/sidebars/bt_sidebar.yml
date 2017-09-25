@@ -35,7 +35,7 @@ entries:
       output: web
 
     - title: 定频认证
-      url: /mydoc_supported_features.html
+      url: /CSM3510上位机定频测试指导.html
       output: web
 
   - title: CST34P93/95
@@ -63,11 +63,3 @@ entries:
       url: /mydoc_supported_features.html
       output: web
 
-
-  - title: FAQ
-    output: web, pdf
-    folderitems:
-
-    - title: 接收不到广播
-      url: /mydoc_supported_features.html
-      output: web
