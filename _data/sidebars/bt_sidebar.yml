@@ -35,7 +35,7 @@ entries:
       output: web
 
     - title: 定频认证
-      url: /CSM3510上位机定频测试指导.html
+      url: /CSM3510_FixFrequencyTest.html
       output: web
 
   - title: CST34P93/95
