@@ -68,10 +68,6 @@ entries:
       url: /mydoc_about_ruby_gems_etc.html
       output: web, pdf
 
-    - title: ICE问题汇总(持续更新)
-      url: /led_faq.html
-      output: web, pdf
-
   - title: 仿真工具(ICE)
     output: web, pdf
     folderitems:
@@ -80,20 +76,12 @@ entries:
       url: /mydoc_about_ruby_gems_etc.html
       output: web, pdf
 
-    - title: ICE问题汇总(持续更新)
-      url: /led_faq.html
-      output: web, pdf
-
-  - title: 烧录工具(CS-Write)
+  - title: 烧录工具(CSW)
     output: web, pdf
     folderitems:
 
-    - title: IDE问题汇总(持续更新)
-      url: /mydoc_about_ruby_gems_etc.html
-      output: web, pdf
-
-    - title: ICE问题汇总(持续更新)
-      url: /led_faq.html
+    - title: CS-Write问题汇总(持续更新)
+      url: /CSWrite_FAQ.html
       output: web, pdf
 
   - title: 测试工具
