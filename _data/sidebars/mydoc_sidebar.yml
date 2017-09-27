@@ -76,8 +76,12 @@ entries:
       url: cs_ice_introduction.html
       output: web
 
-    - title: IDE问题汇总(持续更新)
-      url: /mydoc_about_ruby_gems_etc.html
+    - title: ICE问题汇总(持续更新)
+      url: /cs_ice_bug_update.html
+      output: web
+
+    - title: ICE时序.rbf文件下载(持续更新)
+      url: /cs_ice_rbf.html
       output: web
 
   - title: 烧录工具(CSW)
