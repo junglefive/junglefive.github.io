@@ -25,18 +25,19 @@ folder: mydoc
 
 #### 2. 问题与解答
 
-- 问题1. 为什么打不开charge pump？
-- 解答：在配置好LED之后，请检查是否将CHPCON[CHPEN]、LEDCON1[LED_PMODE]打开,CHPCON[CHPVS]置0。
-- 问题2. 打开charge pump且LED点亮时，为什么Low power电压升高了？
-- 解答：原因是LED点亮时将电源电压拉低了。这时候就应该提高LDO的驱动能力才能确保电源电压保持稳定。
+- 问题1. 为什么打不开`charge pump`？
+- 解答：在配置好LED之后，请检查是否将`CHPCON[CHPEN]`、`LEDCON1[LED_PMODE]`打开,`CHPCON[CHPVS]`置0。
+- 问题2. 打开`charge pump`且`LED`点亮时，为什么`Low power`电压升高了？
+- 解答：原因是`LED`点亮时将电源电压拉低了。这时候就应该提高`LDO`的驱动能力才能确保电源电压保持稳定。
 - 问题3. 怎么调整LED整体电流？
-- 解答：可修改l_led_drv.asm文件中函数INTERRUPT_LED_END以及INTERRUPT_LED_END1中驱动电流以及定时器溢出时间。
-- 问题4. 为什么打开了charge pump之后跟不打开亮度一样？
+- 解答：可修改`l_led_drv.asm`文件中函数`INTERRUPT_LED_END`以及`INTERRUPT_LED_END1`中驱动电流以及定时器溢出时间。
+- 问题4. 为什么打开了`charge pump`之后跟不打开亮度一样？
 - 解答：这有多种可能性，以下为可能性总结及建议：
-- LED已达到最大亮度。建议更换LED。
-- CAP0/CAP1外接电容耐压值不够。建议使用封装0805以上、耐压值10V以上电容。
-- CHPV/VLED引脚外接电容容值不足或耐压值不够。建议使用封装0805以上、耐压值10V以上电容。
-- LDO驱动电压不够。建议更换驱动电流大的LDO。
+- `LED`已达到最大亮度。建议更换`LED`。
+- `CAP0/CAP1`外接电容耐压值不够。建议使用封装0805以上、耐压值10V以上电容。
+- `CHPV/VLED`引脚外接电容容值不足或耐压值不够。建议使用封装0805以上、耐压值10V以上电容。
+- `LDO`驱动电压不够。建议更换驱动电流大的`LDO`。
+
 =======
 
 
