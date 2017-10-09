@@ -100,8 +100,8 @@ entries:
       url: /mydoc_about_ruby_gems_etc.html
       output: web, pdf
 
-    - title: 测试工具问题汇总(持续更新)
-      url: /led_faq.html
+    - title: MAC地址自动收集工具
+      url: /test_collect_mac_address.html
       output: web, pdf
 
   - title: 百科页面

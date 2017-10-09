@@ -12,7 +12,7 @@ site_title: 开发者网站
 company_name: 芯海科技（深圳）股份有限公司
 # this appears in the footer
 
-github_editme_path: junglefive/junglefive.github.io/blob/gh-pages/
+github_editme_path: junglefive/junglefive.github.io/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 disqus_shortname:
